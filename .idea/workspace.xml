@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b4d4604a-e710-40b5-94f5-d444138fcfe0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Py2xAPIAutomationFramework/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Py2xAPIAutomationFramework/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Py2xAPIAutomationFramework/.idea/Py2xAPIAutomationFrameworkDhaval.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Py2xAPIAutomationFramework/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Py2xAPIAutomationFramework/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Py2xAPIAutomationFramework/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Py2xAPIAutomationFramework/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Py2xAPIAutomationFramework/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Py2xAPIAutomationFramework/src/constants/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Py2xAPIAutomationFramework/src/constants/api_constants.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Py2xAPIAutomationFramework/src/helpers/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Py2xAPIAutomationFramework/src/helpers/api_requests_wrapper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Py2xAPIAutomationFramework/src/helpers/common_verifications.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Py2xAPIAutomationFramework/src/helpers/payload_manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Py2xAPIAutomationFramework/src/resources/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Py2xAPIAutomationFramework/src/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Py2xAPIAutomationFramework/src/utils/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Py2xAPIAutomationFramework/tests/test/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Py2xAPIAutomationFramework/tests/test/base/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Py2xAPIAutomationFramework/tests/test/crud/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Py2xAPIAutomationFramework/tests/test/crud/test_create_booking.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Py2xAPIAutomationFramework/tests/test/integration/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2oLKxRQPOxXywvh5fz6o4oQset5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b4d4604a-e710-40b5-94f5-d444138fcfe0" name="Changes" comment="" />
+      <created>1730643661471</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730643661471</updated>
+    </task>
+    <servers />
+  </component>
+</project>
